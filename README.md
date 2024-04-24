@@ -24,7 +24,7 @@ The dataset used for training this model is available on Kaggle and consists of 
 
 The dataset was carefully curated to ensure a diverse representation of different terrains and to maintain an appropriate balance between the classes.
 
-You can download the dataset from [Kaggle](https://www.kaggle.com/yourusername/terrain-dataset).
+You can download the dataset from [Kaggle]([https://www.kaggle.com/yourusername/terrain-dataset](https://www.kaggle.com/datasets/atharv1610/terrain-recognition).
 
 ## Model Architecture
 
